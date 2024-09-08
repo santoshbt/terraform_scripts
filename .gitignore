@@ -1,0 +1,7 @@
+
+backup/*/terraform.tfstate
+backup/*/terraform.tfstate.backup
+backup/*/.terraform.*
+backup/*/.terraform/*
+backup/*/iam.*
+.vscode
