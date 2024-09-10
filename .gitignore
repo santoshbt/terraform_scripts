@@ -5,3 +5,9 @@ backup/*/.terraform.*
 backup/*/.terraform/*
 backup/*/iam.*
 .vscode
+backup/*/backend-state/terraform.tfstate
+backup/*/backend-state/terraform.tfstate.backup
+backup/*/users/.terraform/terraform.tfstate
+backup/08-modules/dev/users/.terraform/providers/registry.terraform.io/hashicorp/aws/2.70.4/windows_amd64/terraform-provider-aws_v2.70.4_x4.exe
+backup/07-backend-state/users/.terraform/providers/registry.terraform.io/hashicorp/aws/2.70.4/windows_amd64/terraform-provider-aws_v2.70.4_x4.exe
+backup/08-modules/qa/users/.terraform/providers/registry.terraform.io/hashicorp/aws/2.70.4/windows_amd64/terraform-provider-aws_v2.70.4_x4.exe
